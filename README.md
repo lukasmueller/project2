@@ -1,4 +1,4 @@
 project2
 ========
 
-another project
+another project that will be really cool.
